@@ -1,0 +1,13 @@
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\bin\Debug\netcoreapp3.1\Simple-NeuralNetwork.exe
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\bin\Debug\netcoreapp3.1\Simple-NeuralNetwork.deps.json
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\bin\Debug\netcoreapp3.1\Simple-NeuralNetwork.runtimeconfig.json
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\bin\Debug\netcoreapp3.1\Simple-NeuralNetwork.runtimeconfig.dev.json
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\bin\Debug\netcoreapp3.1\Simple-NeuralNetwork.dll
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\bin\Debug\netcoreapp3.1\Simple-NeuralNetwork.pdb
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\obj\Debug\netcoreapp3.1\Simple-NeuralNetwork.csprojAssemblyReference.cache
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\obj\Debug\netcoreapp3.1\Simple-NeuralNetwork.AssemblyInfoInputs.cache
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\obj\Debug\netcoreapp3.1\Simple-NeuralNetwork.AssemblyInfo.cs
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\obj\Debug\netcoreapp3.1\Simple-NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\obj\Debug\netcoreapp3.1\Simple-NeuralNetwork.dll
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\obj\Debug\netcoreapp3.1\Simple-NeuralNetwork.pdb
+D:\Arquivos e Programas\VSCODE\Simple-NeuralNetwork\obj\Debug\netcoreapp3.1\Simple-NeuralNetwork.genruntimeconfig.cache
