@@ -8,6 +8,8 @@ namespace Simple_NeuralNetwork
         {
             double[] w = {0.8233245475,1.1233256475,1.0533245475};
             int input;
+
+            Console.WriteLine("Put a number");
             input = int.Parse(Console.ReadLine());
             double output = 0;
 
